@@ -70,6 +70,9 @@ gem 'font-awesome-sass'
 gem 'devise'
 
 gem 'carrierwave'
+gem 'fog-aws'
+
+
 gem 'mini_magick'
 
 gem 'jquery-rails'
